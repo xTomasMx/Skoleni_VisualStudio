@@ -20,3 +20,6 @@ else:
         soucet += cislice
 
     print(f"Součet všech číslic je: {soucet}")
+
+
+
